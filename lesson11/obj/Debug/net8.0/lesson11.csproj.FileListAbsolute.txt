@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\bin\Debug\net8.0\lesson11.exe
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\bin\Debug\net8.0\lesson11.deps.json
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\bin\Debug\net8.0\lesson11.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\bin\Debug\net8.0\lesson11.dll
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\bin\Debug\net8.0\lesson11.pdb
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.sourcelink.json
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.dll
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\refint\lesson11.dll
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.pdb
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\lesson11.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение\ItProger\lesson11\obj\Debug\net8.0\ref\lesson11.dll
