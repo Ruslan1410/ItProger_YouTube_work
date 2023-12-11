@@ -17,6 +17,16 @@ namespace project
 
                 stream.Write(array, 0, array.Length);
             }
+
+            using(FileStream stream1 = File.OpenRead("info.txt"))
+            {
+                byte[] array = new byte[stream1.Length];
+                stream1.Read(array, 0, array.Length);
+
+                string textFromfile = System.Text.Encoding.Default.GetString(array);
+                Console.WriteLine(textFromfile);
+            }
         }
+
     }
 }
