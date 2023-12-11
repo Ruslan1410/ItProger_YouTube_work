@@ -12,7 +12,7 @@ namespace project {
             // word = (string.Concat(word, "!"));
             // Console.WriteLine(string.Compare(word, "Hello"));
 
-            string people. "Alex, Bob, John";
+            string people = "Alex, Bob, John";
             string[] names = people.Split(new char[]{','});
             foreach(string el in names)
             console.WriteLine(el);
