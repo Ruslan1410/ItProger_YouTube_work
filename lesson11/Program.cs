@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace project {
 
@@ -12,10 +13,12 @@ namespace project {
             // word = (string.Concat(word, "!"));
             // Console.WriteLine(string.Compare(word, "Hello"));
 
-            string people = "Alex, Bob, John";
-            string[] names = people.Split(new char[]{','});
-            foreach(string el in names)
-            console.WriteLine(el);
+            //string people = "Alex, Bob, John";
+            //string[] names = people.Split(new char[]{','});
+            //people = string.Join(" ", names);
+            //Console.WriteLine(people);
+
+            System.Console.WriteLine(word.Substring(2));
         }
     }
 }
